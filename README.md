@@ -1,4 +1,4 @@
-# lowcode
+# ShortCut🔮
 
 ## Project setup
 ```
